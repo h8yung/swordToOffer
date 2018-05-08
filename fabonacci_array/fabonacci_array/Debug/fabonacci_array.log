@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\h8yung\desktop\primer_plus\fabonacci_array\fabonacci_array\main.cpp(8): warning C4715: “fabonacci”: 不是所有的控件路径都返回值
+  fabonacci_array.vcxproj -> C:\Users\h8yung\Desktop\primer_plus\fabonacci_array\Debug\fabonacci_array.exe
+  fabonacci_array.vcxproj -> C:\Users\h8yung\Desktop\primer_plus\fabonacci_array\Debug\fabonacci_array.pdb (Full PDB)
